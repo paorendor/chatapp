@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Chat App</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="please_enter_the_required_name">PLEASE ENTER THE REQUIRED NAME</string>
+    <string name="firstname">first name</string>
+    <string name="lastname">last name</string>
+    <string name="contactnumber">contact number</string>
+    <string name="register">Register</string>
 </resources>
